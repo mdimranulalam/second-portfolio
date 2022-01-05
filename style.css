@@ -69,6 +69,11 @@ p{
 
 
 /* Section - 3 Styles */
+.section-3{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
 .sec-3-title{
     padding-left: 5%;
 }
