@@ -11,6 +11,9 @@ h1{
     font-weight: 600;
     cursor: default;
 }
+h2{
+    font-size: 30px;
+}
 h3,h4{
     cursor: default;
 }
@@ -54,3 +57,14 @@ p{
 .section-part img{
     width: 80%;
 }
+
+
+/* Section - 2 Styles */
+.second-section{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+/* Section - 3 Styles */
